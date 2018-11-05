@@ -12,4 +12,5 @@ git remote add origin https://github.com/PG3DA97N/Hello_world.git
 
 Pour ajouter le code sur github on utilise la commande git pull. 
 exemple: on veut envoyer dans master. 
+git push -u <nom du remote> <nom de la branche>
 git push -u origin master
